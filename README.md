@@ -9,7 +9,6 @@ Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de progr
 
 - [Visão geral](#visão-geral)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [Meu processo](#meu-processo)
   - [Construído com](#construído-com)
   - [O que aprendi](#o-que-aprendi)
@@ -25,13 +24,6 @@ Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de progr
 ### Screenshot
 
 ![Prévia Desktop](./design/desktop-design.jpg)
-
----
-
-### Links
-
-- 🔗 URL da solução: *(adicione aqui o link da sua solução no Frontend Mentor)*
-- 🌐 URL do site ao vivo: *(adicione aqui o link do site publicado)*
 
 ---
 
